@@ -11,7 +11,8 @@ Always activate "Allow Insecure" on the client when using the provided share lin
 bash <(curl -fsSL https://raw.githubusercontent.com/deathline94/Juicity-Installer/main/juicity-installer.sh)
 
 ```
-
+# 🕸 SNI :  www.cloudflare.com
+```
 # 📋 Features
 
     🔧 Automated installation of the Juicity server.
